@@ -1,9 +1,7 @@
 title: "<title>"
-labels: [Profile]
 body:
 - type: dropdown
   attributes:
-    label: Select Topic Area
     description: What would you like to discuss?
     options:
       - "Product Feedback"
